@@ -12,3 +12,5 @@ Git pull=> pulls the latest changes from remote GitHub repository to local git r
 Git branch=>shows which branch the file is in
 Git checkout -b branchname=>to create a private branch
 Git checkout branchname=>to switch to a specific branch specified in command
+
+Git cofig->To specify authorization
