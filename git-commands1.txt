@@ -12,13 +12,3 @@ Git pull=> pulls the latest changes from remote GitHub repository to local git r
 Git branch=>shows which branch the file is in
 Git checkout -b branchname=>to create a private branch
 Git checkout branchname=>to switch to a specific branch specified in command
-
-
-
-To merge the private branches with master branch and push :
-Switch to a private branch=> git checkout privatebranch1
-Switch to master branch=>git checkout master
-Take a pull to master branch=>git pull origin master
-Merge the changes in master of private branch=>git merge privatebranch1
-Push the changes to master branch=>git push origin master
-To merge the private branches with master branch and push(browser level)
